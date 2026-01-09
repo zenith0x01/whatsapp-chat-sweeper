@@ -5,6 +5,11 @@ Automates deletion of the last N messages in a WhatsApp chat using screen automa
 > ⚠️ Educational / personal-use project.
 
 ---
+## 🎥 Demo
+
+![Demo](preview.gif)
+
+---
 
 ## Features
 - Delete last N messages from a chat
